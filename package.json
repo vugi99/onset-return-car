@@ -1,0 +1,9 @@
+{
+	"author": "Voltaism",
+	"version": "1.0",
+        "onset_build": "1.2.2",
+        "client_scripts": [
+                "client/rcar.lua"
+        ]
+
+}
