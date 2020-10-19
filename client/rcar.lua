@@ -1,7 +1,7 @@
 
 
 local turn_speed = 510
-local last_veh_supported = 40
+local last_veh_supported = 48
 local blacklisted_vehs = {
     10,
     20,
@@ -9,7 +9,8 @@ local blacklisted_vehs = {
     30,
     31,
     33,
-    34
+    34,
+    41,
 }
 
 
